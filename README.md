@@ -1,5 +1,6 @@
 # CovidBot
 Unity MLAgent social isolation enforcement bot
 
-![](utilities.gif)
+![](agentmode.gif)
 
+![](playermode.gif)
