@@ -23,6 +23,7 @@ Raycast Array: 16 X 3
 
 Action Space: 
 ```
+4 Possibilities:
 X Direction Movements: 2
 Y Direction Movements: 2
 ```
