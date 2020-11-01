@@ -7,8 +7,8 @@ Unity MLAgent social isolation enforcement bot
 
 ## Agent Detail 
 Rewards: 
-```Nudge “Talker”: AddReward(1)
-Nudge “Wanderer”: AddReward(-0.5) 
+```Nudge 'Talker': AddReward(1)
+Nudge 'Wanderer': AddReward(-0.5) 
 Make no move: AddReward(-0.1)
 ```
 
