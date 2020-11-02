@@ -9,7 +9,7 @@ Randomly Generated map to train a unity ML Agent with 360 vision and sensor comp
 
 ### Downloads 
 
-> [Download Mac Demo](https://drive.google.com/drive/my-drive)
+> [Download Mac Demo](https://drive.google.com/file/d/1d-cPNHbB3K6YIifosvcJKPhSSMFtASuy/view?usp=sharing)
 
 > To build it and train new neural models with python [Download UnityPackage](https://github.com/gukuma/CovidBot/blob/main/CovidBot_V1.unitypackage)
 
