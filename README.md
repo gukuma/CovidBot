@@ -7,11 +7,14 @@ Unity MLAgent social isolation enforcement bot
 
 Randomly Generated map to train a unity ML Agent with 360 vision and sensor components to **navigate**, **avoid single wanderers**, and **break apart groups of wanderers**. **Wanderers** will walk aimlessly in the space, unless bumping into another **Wanderer** and then both will stop and become a *Talker*. Infinite walking is implemented by turning walls into portals to opposite wall, maintaining all other motion data. 
 
+
 ### Downloads 
 
 > [Download Mac Demo](https://drive.google.com/file/d/1d-cPNHbB3K6YIifosvcJKPhSSMFtASuy/view?usp=sharing)
 
 > To build it and train new neural models with python [Download UnityPackage](https://github.com/gukuma/CovidBot/blob/main/CovidBot_V1.unitypackage)
+
+![](playermode.gif)
 
 
 
@@ -44,7 +47,7 @@ Y Direction Movements: 2
 |2019.4.13| 0.8 Release  | 3.7  |
 
 
- ![](playermode.gif)
+
 
 
 
@@ -66,4 +69,6 @@ Y Direction Movements: 2
 
 ## Backlogs
 - LOTS!!
+- ML Agent rotates in place, but doesn't do anything else, have not had chance to play with configs
+![](progress.gif)
 
